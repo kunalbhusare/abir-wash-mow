@@ -33,7 +33,7 @@ h1{font-size:clamp(2.4rem,10vw,4.2rem);color:var(--ink)}
 .ico{font-size:2rem;line-height:1}
 .prices{list-style:none;margin:0 auto;padding:0;max-width:520px;display:grid;gap:.75rem}
 .prices li{display:flex;justify-content:space-between;align-items:center;gap:1rem;background:#fff;border:3px dashed var(--yellow);border-radius:20px;padding:1rem 1.25rem;font-weight:700}
-.ph{font-size:1.4rem;color:var(--coral);white-space:nowrap}
+.ph{font-size:1.4rem;color:#C93A2B;white-space:nowrap}
 .note{text-align:center;max-width:520px;margin:1rem auto 0;font-size:.95rem}
 .badge{background:var(--yellow);border-radius:99px;padding:.1rem .6rem;font-weight:900;font-size:.8rem;text-transform:uppercase;margin-right:.3rem}
 .book{background:linear-gradient(180deg,#DFF3FC,#BFE6F8);text-align:center}
